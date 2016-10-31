@@ -1,4 +1,4 @@
-# github-demo
+# github-demo 2016
 A repo to be used with git training
 
 ## Starter Web Project
@@ -26,4 +26,6 @@ file system.
 
 ### Copyright
 
+
 2016Git.Training.
+
