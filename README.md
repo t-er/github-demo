@@ -7,4 +7,6 @@ A repo to be used with git training
 
 ## Purpose
 
+## Deployment
+
 ## How To Contribute
